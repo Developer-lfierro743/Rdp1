@@ -1,4 +1,4 @@
-name: programmingwithkumaresan
+l name: programmingwithkumaresan
 
 
 
@@ -32,8 +32,3 @@ jobs:
 
         run: cmd /c show.bat
 
-
-
-      - name: Time Counter
-
-        run: python time.py
